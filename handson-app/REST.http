@@ -1,0 +1,6 @@
+### chat
+GET http://localhost:7071/api/chat?q=ウェブサイトをホストするサービス
+
+
+### indexer
+POST http://localhost:7071/api/upsert

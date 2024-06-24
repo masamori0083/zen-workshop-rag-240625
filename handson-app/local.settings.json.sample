@@ -1,0 +1,16 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AzureWebJobsFeatureFlags": "EnableWorkerIndexing",
+    "COSMOS_CONNECTION": "",
+    "COSMOS_DB_NAME": "aoai",
+    "COSMOS_CONTAINER_NAME": "azure",
+    "AOAI_ENDPOINT": "",
+    "AOAI_API_KEY": "",
+    "AOAI_DEPLOYMENT_NAME_ADA": "text-embedding-3-small",
+    "AOAI_DEPLOYMENT_NAME_GPT": "gpt-4o",
+    "AOAI_API_VERSION": "2024-02-01"
+  }
+}

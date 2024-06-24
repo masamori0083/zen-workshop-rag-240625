@@ -1,0 +1,3 @@
+azure-cosmos
+azure-functions
+openai==1.*
